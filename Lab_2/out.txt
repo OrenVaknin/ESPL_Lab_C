@@ -1,0 +1,9 @@
+LineParser.c
+LineParser.h
+in.txt
+looper.c
+makefile
+mypipe.c
+mypipeline.c
+myshell.c
+out.txt
